@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jadwal BUS</string>
+    <!-- Shown above left column listing bus stops in full schedule fragment -->
+    <string name="bus_stop_header">Nama BUS</string>
+    <!-- Shown above right column listing arrival times in full schedule fragment -->
+    <string name="arrival_time_header">Waktu</string>
+</resources>
